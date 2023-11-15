@@ -1,0 +1,6 @@
+ 1 chips 50 1
+ 2 potato 40 2
+ 3 butter 70 1
+ 4 honey 100 1
+ 5 juice 150 5
+ 6 cocacola 100 0
